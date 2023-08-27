@@ -1,1 +1,1 @@
-# Day-22-Tasks-Price-card
+https://react-price-card-task.netlify.app/
